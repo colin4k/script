@@ -7,3 +7,4 @@ gant.py
 project_gantt_chart.html
 project_gantt_chart.png
 test_open_api_string.py
+settings.yaml
